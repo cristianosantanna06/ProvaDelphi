@@ -1,0 +1,30 @@
+unit uFormPrincipal;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Menus, ufTarefa1;
+
+type
+  TFormPrincipal = class(TForm)
+    MainMenuTarefas: TMainMenu;
+    arefa11: TMenuItem;
+    Tarefa12: TMenuItem;
+    arefa21: TMenuItem;
+    arefa31: TMenuItem;
+     procedure CriarFormulario(pNomeFormulario : TForm);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  FormPrincipal: TFormPrincipal;
+
+implementation
+
+{$R *.dfm}
+
+end.

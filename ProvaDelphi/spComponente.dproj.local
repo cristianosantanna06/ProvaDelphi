@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/03/01 18:03:54.000.396,=rtl.dcp</Transaction>
+    <Transaction>2021/03/01 18:04:31.000.586,C:\Users\crist\Documents\Embarcadero\Studio\Projects\Package1.dproj=C:\Users\crist\Documents\Embarcadero\Studio\Projects\spComponentes.dproj</Transaction>
+    <Transaction>2021/03/01 18:05:14.000.629,C:\Users\crist\Documents\Embarcadero\Studio\Projects\spComponentes.dproj=C:\Users\crist\Desktop\ProvaDelphi\spComponente.dproj</Transaction>
+    <Transaction>2021/03/01 18:15:56.000.946,=C:\Users\crist\Desktop\ProvaDelphi\FDQuery1.pas</Transaction>
+    <Transaction>2021/03/01 18:15:57.000.016,=dbrtl.dcp</Transaction>
+    <Transaction>2021/03/01 18:15:57.000.065,=FireDACCommon.dcp</Transaction>
+    <Transaction>2021/03/01 18:15:57.000.039,=FireDACSqliteDriver.dcp</Transaction>
+    <Transaction>2021/03/01 18:15:57.000.075,=xmlrtl.dcp</Transaction>
+    <Transaction>2021/03/01 18:15:57.000.053,=FireDACCommonDriver.dcp</Transaction>
+    <Transaction>2021/03/01 18:15:57.000.028,=FireDAC.dcp</Transaction>
+    <Transaction>2021/03/01 18:16:48.000.353,=C:\Users\crist\Desktop\ProvaDelphi\uspQuery.pas</Transaction>
+    <Transaction>2021/03/01 18:34:09.000.092,=C:\Users\crist\Desktop\ProvaDelphi\uspComponentesRegistro.pas</Transaction>
+    <Transaction>2021/03/01 18:34:48.000.243,C:\Users\crist\Desktop\ProvaDelphi\uspComponentesRegistro.pas=</Transaction>
+    <Transaction>2021/03/01 20:17:09.000.913,=C:\Users\crist\Desktop\ProvaDelphi\FDQuery1.pas</Transaction>
+    <Transaction>2021/03/01 20:19:01.000.168,C:\Users\crist\Desktop\ProvaDelphi\FDQuery1.pas=</Transaction>
+    <Transaction>2021/03/01 20:20:57.000.757,C:\Users\crist\Desktop\ProvaDelphi\uspQuery.pas=</Transaction>
+    <Transaction>2021/03/01 20:22:15.000.404,=C:\Users\crist\Desktop\ProvaDelphi\QueryNova\uspQuery.pas</Transaction>
+    <Transaction>2021/03/01 20:23:10.000.754,C:\Users\crist\Desktop\ProvaDelphi\QueryNova\uspQuery.pas=</Transaction>
+    <Transaction>2021/03/01 20:23:17.000.317,=C:\Users\crist\Desktop\ProvaDelphi\uspQuery.pas</Transaction>
+    <Transaction>2021/03/02 02:14:37.000.994,=fmx.dcp</Transaction>
+    <Transaction>2021/03/02 02:54:35.000.210,=fmx.dcp</Transaction>
+  </Transactions>
+</BorlandProject>

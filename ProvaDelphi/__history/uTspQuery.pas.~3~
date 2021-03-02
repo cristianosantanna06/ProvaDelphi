@@ -1,0 +1,39 @@
+unit uTspQuery;
+
+interface
+
+uses
+  System.SysUtils, System.Classes, Data.DB, FireDAC.Comp.DataSet,
+  FireDAC.Comp.Client;
+
+type
+  TspQuery = class(TFDQuery)
+  private
+    { Private declarations }
+  protected
+    { Protected declarations }
+  public
+    { Public declarations }
+    function GeraSQL(spCondicoes, spColunas, spTabelas : TStringList) : string;
+  published
+    { Published declarations }
+  end;
+
+procedure Register;
+
+implementation
+
+procedure Register;
+begin
+  RegisterComponents('spComponents', [TspQuery]);
+end;
+
+{ TspQuery }
+
+function TspQuery.GeraSQL(spCondicoes, spColunas,
+  spTabelas: TStringList): string;
+begin
+
+end;
+
+end.
