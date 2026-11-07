@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Trilha Tech — do código à produção</title>
+<meta name="description" content="Curso visual e evolutivo: Git, GitHub Actions, Docker, Kubernetes, Terraform, Redis, APIs seguras, DuckDB/DuckLake, Clean Code e métodos ágeis.">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div id="app">
+  <aside id="side" aria-label="Navegação">
+    <a class="brand" href="#/"><span class="logo">◆</span><span><b>Trilha Tech</b><small>do código à produção</small></span></a>
+    <div class="search"><input id="q" type="search" placeholder="Buscar lição…  ( / )" autocomplete="off"><div id="qres" hidden></div></div>
+    <nav id="nav"></nav>
+    <div class="side-foot">
+      <button class="btn ghost sm" id="theme">◐ Tema</button>
+      <button class="btn ghost sm" id="cfg">⚙ Progresso</button>
+    </div>
+  </aside>
+  <div id="scrim"></div>
+  <main id="main" tabindex="-1">
+    <header class="top"><button id="burger" class="btn ghost" aria-label="Menu">☰</button><div id="crumbs"></div><div class="xp" id="xp"></div></header>
+    <div id="view"></div>
+    <footer class="foot">Conteúdo educacional baseado em documentação oficial (links em cada lição). Versões mudam: confirme sempre na fonte. Última revisão: nov/2026.</footer>
+  </main>
+</div>
+<dialog id="dlg"></dialog>
+<script src="js/data/_helpers.js"></script>
+<script src="js/data/git.js"></script>
+<script src="js/data/docker.js"></script>
+<script src="js/data/actions.js"></script>
+<script src="js/data/apis.js"></script>
+<script src="js/data/redis.js"></script>
+<script src="js/data/dados.js"></script>
+<script src="js/data/terraform.js"></script>
+<script src="js/data/k8s.js"></script>
+<script src="js/data/eng.js"></script>
+<script src="js/render.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
